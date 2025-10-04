@@ -1,0 +1,15 @@
+{
+  "data": {
+    "client_id": "credit_report_v2_pdf_ywWaXdhazoIEjbpPuvqc",
+    "pan": "EKRPR0000F",
+    "mobile": "8890123456",
+    "name": "VISHAL RATHORE",
+    "credit_score": "764",
+    "credit_report": {},
+    "credit_report_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  "status_code": 200,
+  "success": true,
+  "message": "Success",
+  "message_code": "success"
+}

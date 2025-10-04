@@ -1,0 +1,275 @@
+{
+    "InquiryResponseHeader": {
+        "ClientID": "008FP01496",
+        "CustRefField": "FINB-KYC360-IDCR-1",
+        "ReportOrderNO": "850136384",
+        "ProductCode": [
+            "IDCR"
+        ],
+        "SuccessCode": "1",
+        "Date": "2023-05-30",
+        "Time": "23:40:20"
+    },
+    "InquiryRequestInfo": {
+        "InquiryPurpose": "00",
+        "FirstName": "DEEPAK",
+        "LastName": "RAJ",
+        "InquiryAddresses": [
+            {
+                "seq": "1",
+                "AddressType": [
+                    "H"
+                ],
+                "AddressLine1": "kok",
+                "State": "MH",
+                "Postal": "400057"
+            }
+        ],
+        "InquiryPhones": [
+            {
+                "seq": "1",
+                "PhoneType": [
+                    "M"
+                ],
+                "Number": "7376842416"
+            }
+        ],
+        "IDDetails": [
+            {
+                "seq": "1",
+                "IDType": "T",
+                "IDValue": "DDZPR7016G",
+                "Source": "Inquiry"
+            }
+        ],
+        "DOB": "1999-11-07"
+    },
+    "Score": [
+        {
+            "Type": "ERS",
+            "Version": "3.1"
+        }
+    ],
+    "CCRResponse": {
+        "Status": "1",
+        "CIRReportDataLst": [
+            {
+                "InquiryResponseHeader": {
+                    "CustomerCode": "HJBM",
+                    "CustRefField": "FINB-KYC360-IDCR-1",
+                    "ReportOrderNO": "850136384",
+                    "ProductCode": [
+                        "IDCR"
+                    ],
+                    "SuccessCode": "1",
+                    "Date": "2023-05-30",
+                    "Time": "23:40:20",
+                    "HitCode": "10",
+                    "CustomerName": "HJBM"
+                },
+                "InquiryRequestInfo": {
+                    "InquiryPurpose": "Other",
+                    "FirstName": "DEEPAK",
+                    "LastName": "RAJ",
+                    "InquiryAddresses": [
+                        {
+                            "seq": "1",
+                            "AddressType": [
+                                "H"
+                            ],
+                            "AddressLine1": "kok",
+                            "State": "MH",
+                            "Postal": "400057"
+                        }
+                    ],
+                    "InquiryPhones": [
+                        {
+                            "seq": "1",
+                            "PhoneType": [
+                                "M"
+                            ],
+                            "Number": "7376842416"
+                        }
+                    ],
+                    "IDDetails": [
+                        {
+                            "seq": "1",
+                            "IDType": "T",
+                            "IDValue": "DDZPR7016G",
+                            "Source": "Inquiry"
+                        }
+                    ],
+                    "DOB": "1999-11-07"
+                },
+                "Score": [
+                    {
+                        "Type": "ERS",
+                        "Version": "3.1"
+                    }
+                ],
+                "CIRReportData": {
+                    "IDAndContactInfo": {
+                        "PersonalInfo": {
+                            "Name": {
+                                "FullName": "DEEPAK RAJ ",
+                                "FirstName": "DEEPAK ",
+                                "LastName": "RAJ "
+                            },
+                            " AliasName": {},
+                            "DateOfBirth": "1999-11-07",
+                            "Gender": "Male",
+                            "Age": {
+                                "Age": "23"
+                            },
+                            "PlaceOfBirthInfo": {},
+                            "Occupation": "SALARIED"
+                        },
+                        "IdentityInfo": {
+                            "PANId": [
+                                {
+                                    "seq": "1",
+                                    "ReportedDate": "2023-04-30",
+                                    "IdNumber": "DDZPR7016G"
+                                }
+                            ]
+                        },
+                        "AddressInfo": [
+                            {
+                                "Seq": "1",
+                                "ReportedDate": "2023-04-30",
+                                "Address": "1034 NEAR PARADISE SCHOOL  CHHITTUPUR BHV-VARANASHI VARANASI",
+                                "State": "UP",
+                                "Postal": "221005"
+                            },
+                            {
+                                "Seq": "2",
+                                "ReportedDate": "2023-04-30",
+                                "Address": "B-5/205 BLOCK-C POCKET -5 SEC-11 ROHINI DELHI",
+                                "State": "DL",
+                                "Postal": "110085"
+                            },
+                            {
+                                "Seq": "3",
+                                "ReportedDate": "2023-04-30",
+                                "Address": "G-22 NDM ONE NETAJI SHUBHASH PALACE DELHI",
+                                "State": "DL",
+                                "Postal": "110034"
+                            },
+                            {
+                                "Seq": "4",
+                                "ReportedDate": "2022-09-30",
+                                "Address": "S/O CHANDRA SHEKHAR SINGH B H U VARANASI HINDU VISHWA VIDHYALAYA UTTAR PRADESH UNDEFINED 221005",
+                                "State": "UP",
+                                "Postal": "221005",
+                                "Type": "Permanent"
+                            },
+                            {
+                                "Seq": "5",
+                                "ReportedDate": "2022-04-30",
+                                "Address": "SOCHANDRA SHEKHAR SINGH B H U VARANASI H INDU VISHWA VIDHYALAYA UTTAR PRADESH 221005 VARANASI VARANASI VARANASI 1661 UTTAR PRADESH",
+                                "State": "UP",
+                                "Postal": "221005",
+                                "Type": "Permanent"
+                            }
+                        ],
+                        "PhoneInfo": [
+                            {
+                                "seq": "1",
+                                "typeCode": "H",
+                                "ReportedDate": "2022-12-17",
+                                "Number": "7376842416"
+                            },
+                            {
+                                "seq": "2",
+                                "typeCode": "M",
+                                "ReportedDate": "2023-04-30",
+                                "Number": "7376842416"
+                            },
+                            {
+                                "seq": "3",
+                                "typeCode": "M",
+                                "ReportedDate": "2023-03-31",
+                                "Number": "917376842416"
+                            }
+                        ],
+                        "EmailAddressInfo": [
+                            {
+                                "seq": "1",
+                                "ReportedDate": "2023-04-30",
+                                "EmailAddress": "DEEPAK.RAJKO14@GMAIL.COM"
+                            }
+                        ]
+                    },
+                   
+                    "RetailAccountsSummary": {
+                        "NoOfAccounts": "6",
+                        "NoOfActiveAccounts": "6",
+                        "NoOfWriteOffs": "0",
+                        "TotalPastDue": "0.00",
+                        "MostSevereStatusWithIn24Months": "Non-Delnqt",
+                        "SingleHighestCredit": "10113.00",
+                        "SingleHighestSanctionAmount": "700000.00",
+                        "TotalHighCredit": "10113.00",
+                        "AverageOpenBalance": "119136.00",
+                        "SingleHighestBalance": "700000.00",
+                        "NoOfPastDueAccounts": "0",
+                        "NoOfZeroBalanceAccounts": "3",
+                        "RecentAccount": "Auto Loan on 18-04-2023",
+                        "OldestAccount": "Consumer Loan on 06-02-2021",
+                        "TotalBalanceAmount": "714816.00",
+                        "TotalSanctionAmount": "787000.00",
+                        "TotalCreditLimit": "30000.0",
+                        "TotalMonthlyPaymentAmount": "17451.00"
+                    },
+                    "ScoreDetails": [
+                        {
+                            "Type": "ERS",
+                            "Version": "3.1",
+                            "Name": "M001",
+                            "Value": "755",
+                            "ScoringElements": [
+                                {
+                                    "type": "RES",
+                                    "seq": "1",
+                                    "Description": "Number of product trades"
+                                },
+                                {
+                                    "type": "RES",
+                                    "seq": "2",
+                                    "code": "5b",
+                                    "Description": "Balance amount of home loan trades"
+                                },
+                                {
+                                    "type": "RES",
+                                    "seq": "3",
+                                    "code": "8a",
+                                    "Description": "Sanctioned amount of or lack of credit card trades"
+                                }
+                            ]
+                        }
+                    ],
+                    "EnquirySummary": {
+                        "Purpose": "ALL",
+                        "Total": "0",
+                        "Past30Days": "0",
+                        "Past12Months": "0",
+                        "Past24Months": "0"
+                    },
+                    "OtherKeyInd": {
+                        "AgeOfOldestTrade": "27",
+                        "NumberOfOpenTrades": "6",
+                        "AllLinesEVERWritten": "0.00",
+                        "AllLinesEVERWrittenIn9Months": "0",
+                        "AllLinesEVERWrittenIn6Months": "0"
+                    },
+                    "RecentActivities": {
+                        "AccountsDeliquent": "0",
+                        "AccountsOpened": "2",
+                        "TotalInquiries": "0",
+                        "AccountsUpdated": "5"
+                    }
+                }
+            }
+        ]
+    }
+}

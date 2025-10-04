@@ -1,0 +1,27 @@
+{
+  "data": {
+    "client_id": "mobile_to_multiple_account_xkshYhduqplMnoZtGrt",
+    "mobile_number": "9234567890",
+    "details": [
+      {
+        "full_name": "RAHUL SHARMA",
+        "account_number": "123456789012",
+        "ifsc": "HDFC0001234"
+      },
+      {
+        "full_name": "PRIYA VERMA",
+        "account_number": "987654321098",
+        "ifsc": "SBIN0005678"
+      },
+      {
+        "full_name": "AMAN GUPTA",
+        "account_number": "456789123456",
+        "ifsc": "ICIC0004321"
+      }
+    ]
+  },
+  "status_code": 200,
+  "success": true,
+  "message": "Success",
+  "message_code": "success"
+}

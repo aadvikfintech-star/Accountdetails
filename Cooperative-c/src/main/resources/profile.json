@@ -1,0 +1,78 @@
+{
+    "data": {
+        "client_id": "prefill_report_v2_uyshxtKbeZZpksexwxpF",
+        "name": "SANTOSH JADHAV",
+        "mobile": "9762031265",
+        "personal_info": {
+            "full_name": "SANTOSH ANNASAHEB JADHAV ",
+            "dob": "1999-02-11",
+            "gender": "Male",
+            "total_income": "",
+            "occupation": "SALARIED",
+            "age": "25"
+        },
+        "phone_info": [
+            {
+                "reported_date": "2022-09-30",
+                "type_code": "H",
+                "number": "9762031265"
+            },
+            {
+                "reported_date": "2022-10-31",
+                "type_code": "M",
+                "number": "9762031265"
+            },
+            {
+                "reported_date": "2022-09-30",
+                "type_code": "T",
+                "number": "06152000"
+            }
+        ],
+        "address_info": [
+            {
+                "address": "S/O ANNASAHEB TA SHEVGAON LOLEGAON AHMADNAGAR AHMEDNAGAR",
+                "state": "MAHARASHTRA",
+                "type": "Primary",
+                "postal": "414502",
+                "reported_date": "2022-10-31"
+            },
+            {
+                "address": "ROOM NO 306 CENTURY MILL MAHADA SANKUL PRABHADEVI MUMBAI MAHADA SANKUL",
+                "state": "MAHARASHTRA",
+                "type": "Primary",
+                "postal": "400025",
+                "reported_date": "2022-09-30"
+            },
+            {
+                "address": "3RD FLOOR C WING TRADE WORLD BLD LOWER PAREL MUMBAI",
+                "state": "MAHARASHTRA",
+                "type": "Office",
+                "postal": "400013",
+                "reported_date": "2022-09-30"
+            }
+        ],
+        "email_info": [
+            {
+                "reported_date": "2022-10-31",
+                "email_address": "SJ9762031265@GMAIL.COM"
+            }
+        ],
+        "identity_info": {
+            "pan_number": [
+                {
+                    "id_number": "BSCPJ4759G"
+                }
+            ],
+            "passport_number": [],
+            "driving_license": [],
+            "voter_id": [],
+            "aadhaar_number": [],
+            "ration_card": [],
+            "other_id": []
+        }
+    },
+    "status_code": 200,
+    "success": true,
+    "message": null,
+    "message_code": "success"
+}
